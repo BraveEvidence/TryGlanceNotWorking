@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="1800000"
+    android:minHeight="400dp"
+    android:minWidth="400dp"
+    android:minResizeHeight="400dp"
+    android:minResizeWidth="400dp"
+    android:description="@string/app_name"
+    android:widgetFeatures="configuration_optional|reconfigurable"
+    android:initialLayout="@layout/glance_default_loading_layout"
+    android:previewImage="@drawable/lake">
+</appwidget-provider>
